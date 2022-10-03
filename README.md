@@ -8,3 +8,6 @@ This is the source code for our video analytics system for lecturers
 
 # Technologies used
 Tensorflow, open-cv, flutter
+
+# Demo
+https://www.youtube.com/watch?v=5WBEDc6tECY
